@@ -1,0 +1,54 @@
+{
+    "quotes": [
+        {
+            "id" : 1,
+            "quote" : "There are only two sorts of doctors: those who practice with their brains, and those who practice with their tongues.",
+            "author" : "William Osler"
+        },
+        {
+            "id" : 2,
+            "quote" : "The aim of medicine is to prevent disease and prolong life, the ideal of medicine is to eliminate the need of a physician.",
+            "author" : "William J. Mayo"
+        },
+        {
+            "id" : 3,
+            "quote" : "Medicines cure diseases, but only doctors can cure patients.",
+            "author" : "Carl Jung"
+        },
+        {
+            "id" : 4,
+            "quote" : "The best doctors in the world are Doctor Diet, Doctor Quiet, and Doctor Merryman.",
+            "author" : "Jonathan Swift"
+        },
+        {
+            "id" : 5,
+            "quote" : "Each patient carries his own doctor inside him.",
+            "author" : "Norman Cousins"
+        },
+        {
+            "id" : 6,
+            "quote" : "One of the first duties of the physician is to educate the masses not to take medicine.",
+            "author" : "William Osler"
+        },
+        {
+            "id" : 7,
+            "quote" : "Let the young know they will never find a more interesting, more instructive book than the patient himself.",
+            "author" : "Giorgio Baglivi"
+        },
+        {
+            "id" : 8,
+            "quote" :  "Illness is the doctor to whom we pay most heed; to kindness, to knowledge, we make promise only; pain we obey.",
+            "author" : "Marcel Proust"
+        },
+        {
+            "id" : 9,
+            "quote" :  "In nothing do men more nearly approach the gods than in giving health to men.",
+            "author" : "Marcus Tullius Cicero"
+        },
+        {
+            "id" : 10,
+            "quote" :  "Most doctors are prisoners of their education and shackled by their profession.",
+            "author" : "Richard Diaz"
+        }
+    ]
+}
